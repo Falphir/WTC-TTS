@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "fc907c0f9c3ba98aabb8fc7f54a5d8ffe1399ace7edaaad7fe87cfa57f4625de"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
@@ -828,11 +832,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "15fad66b297e3901d626bc8a164d39af95fe3d4b45c3543c41392a6579cfbbef"
-metafile = true
-
-[[files]]
-file = "mods/servercore.pw.toml"
-hash = "75356c9ab561648210e7b59326ed1ee83c674d6ffece939ba7045c33c6c2064e"
 metafile = true
 
 [[files]]

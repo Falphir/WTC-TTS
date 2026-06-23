@@ -1,0 +1,12 @@
+# Packwiz export artifacts
+*.mrpack
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
