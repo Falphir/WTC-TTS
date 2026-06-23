@@ -1,0 +1,13 @@
+name = "WTC To The Sky"
+author = "Falphir & ArneSW"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1885bf3cc35df658a7cfe252aeccdc4fada6e9b915231761ad7a02fd05298e68"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"
