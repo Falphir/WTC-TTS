@@ -326,6 +326,16 @@ hash = "39cbab92fb61fa1809540a828858e16c2386ff6fbd5bc01140d180c74ad94002"
 metafile = true
 
 [[files]]
+file = "mods/ex-deorum.pw.toml"
+hash = "2077b38f089ba2cc007a29c98ef21a9e5b54186f7408ee53f25afffa41856fe6"
+metafile = true
+
+[[files]]
+file = "mods/ex-machinis-divitiae-deorum.pw.toml"
+hash = "505998e35b245cd88db845414a85a59525e1c5143020b0bc1bd3eaff29e8fef0"
+metafile = true
+
+[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "6c44d21e8b7a1a3933b7d24d177b910025091195f1fbf4c8d41ad8196c7bf586"
 metafile = true
@@ -648,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/mifa.pw.toml"
 hash = "c55f5ed9eab9e033c80f91bc1cbe14e34e4c3ef28160f1022cbdeff79fb55db1"
+metafile = true
+
+[[files]]
+file = "mods/mob-flow-utilities.pw.toml"
+hash = "12dfb3bc18c5bbe9aa149983122db7dde94680b9b2014e6b9ab1a8a2ed22f1a4"
 metafile = true
 
 [[files]]

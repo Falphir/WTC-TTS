@@ -1,0 +1,13 @@
+name = "Mob Flow Utilities"
+filename = "mobflowutilities-3.1.10.5-mc-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc09f596e9854c83b9b87183f45e35fea11cfa7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8149687
+project-id = 1287570
