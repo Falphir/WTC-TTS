@@ -1,0 +1,13 @@
+name = "Halcyon | Data & Essence"
+filename = "Halcyon-v0.3.6+tides-of-phenua.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d317697cbb65329d652331353d57d3f3ad8072dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8060172
+project-id = 1189360

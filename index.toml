@@ -165,6 +165,11 @@ hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
 metafile = true
 
 [[files]]
+file = "mods/cataclysm-dimensions.pw.toml"
+hash = "46dbf8f272ae61424843dc4280afb10f6c3e9500a09eeb0e89edc2118214a822"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
@@ -197,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "d9fa7b714a963571686e5833ec74c6fe1b39d0a99890423a8b51f9febaf6a37a"
+metafile = true
+
+[[files]]
+file = "mods/compact-crafting-updated.pw.toml"
+hash = "dcaf90017521f32ad7eeb63f44abf393b8cd2764fa18aeabce89b9f7fd039db4"
 metafile = true
 
 [[files]]
@@ -290,18 +300,18 @@ hash = "269ec2e84dda586fcc3bcf843c23357e3f9cc5bcb075fb7a04b7cbc50f5b6836"
 metafile = true
 
 [[files]]
+file = "mods/data-essence.pw.toml"
+hash = "d730c70699c72a6bc122fe78101990240ce3bed973df47921869663f6600f1f7"
+metafile = true
+
+[[files]]
+file = "mods/databank.pw.toml"
+hash = "255fab3281eaf50589f7009c1887b2f9e638a6512e2fab7ffa1a967bf760bfa9"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "bc1d52bd43eace5fe032e8815df90323adcc82ab765d382d5d4a536eee3a0f06"
-metafile = true
-
-[[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "9237b88b063c87c5f4b5a79c5ff8a7c287537f3deabe04027efee8298ac380dd"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "2bfe1523d89098c72c7072531f60eb24c6b41fea2ee294bfcb86c3c385464c08"
 metafile = true
 
 [[files]]
@@ -316,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
 metafile = true
 
 [[files]]
@@ -357,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "6d51c8adfc6782f216a150dedda2ea64969a639f4e21401eb5c5b5ac8c9ab28f"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
 metafile = true
 
 [[files]]
@@ -505,6 +520,11 @@ hash = "99960f495a558edc78229a4abf5397cf299b683d1db3f70dbcb44db2bbf728e5"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "8e67a96432b89ad64ec00b59666f510ead091dea23632a672ac800c77964e9ae"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "901106fc6fcb4dcb86c13dd8c1dfb0d26e048387fec5bd610d06082242bd786a"
 metafile = true
@@ -600,8 +620,23 @@ hash = "c1ac7572855299fad54a217d8461519e37cf90b753e80cd0aa6acf4c27c795e9"
 metafile = true
 
 [[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "8face75cbf61291840df2e5dd22a8eb01989d08c2b14cffc39ca8fdd6116ca34"
+metafile = true
+
+[[files]]
+file = "mods/lenderscataclysm-delight.pw.toml"
+hash = "8a03d114832376a7d47f79ce3e115b0812896b07627ec99a99e6356cdd1fddb1"
+metafile = true
+
+[[files]]
 file = "mods/libx.pw.toml"
 hash = "5fae6a137e68aa9408d87d1dfc419d4450eec49c0c57c02a2d6756c3fca69a44"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "11fc7b3670c6e58c67d0ba2d5216233fbead5ff96982a0fb19f4ccfeea1f3398"
 metafile = true
 
 [[files]]
@@ -667,6 +702,16 @@ metafile = true
 [[files]]
 file = "mods/mob-flow-utilities.pw.toml"
 hash = "12dfb3bc18c5bbe9aa149983122db7dde94680b9b2014e6b9ab1a8a2ed22f1a4"
+metafile = true
+
+[[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "ed334bd8ff25757d72ac569a854f0a846b786d7704c2c36ebd95c00b97c7a6fe"
+metafile = true
+
+[[files]]
+file = "mods/model-gap-fix.pw.toml"
+hash = "0f697b680492ec68f4db792705f84f27fa54afacba3c92a578e2c1b821bc894f"
 metafile = true
 
 [[files]]
@@ -840,6 +885,11 @@ hash = "04bd0d7668e9a435a0ca553ad247636d74f3641a7542a170de6111cea852dea6"
 metafile = true
 
 [[files]]
+file = "mods/sky-guis.pw.toml"
+hash = "51485dad52907c184bc3a69fe19586d1df1f0f048c4aa7dc2ad694cd40483766"
+metafile = true
+
+[[files]]
 file = "mods/skyblock-builder.pw.toml"
 hash = "dda22bed8fab9764ab6d7db702c34a2ef3c574c47f329bbe95f6b02faa0b8c0c"
 metafile = true
@@ -890,6 +940,11 @@ hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
+file = "mods/summoningrituals.pw.toml"
+hash = "f553ea0fb1665d165edd00a0d7ee5215ece451e4a05a30662b2f0cf3c9da9c74"
+metafile = true
+
+[[files]]
 file = "mods/super-factory-manager.pw.toml"
 hash = "b3c249ee5ae2039666dbd463d4bc7ddc283459206f5813547607881ba898e85f"
 metafile = true
@@ -917,6 +972,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "b4839b51f328fbd3af8addab6905f444a425ffd8d540966766bbe2947528cba8"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "6a74877f3cd1aa910324383206b42a9775c3564e3174df009950cff3c8b1e740"
 metafile = true
 
 [[files]]
