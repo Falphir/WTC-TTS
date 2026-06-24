@@ -1,3 +1,5 @@
-// Visit the wiki for more info - https://kubejs.com/
-console.info('Hello, World! (Loaded server example script)')
-
+function toIngredient(i) {
+    return i.startsWith("#")
+        ? { tag: i.substring(1) }
+        : { item: i }
+}

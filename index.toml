@@ -37,6 +37,10 @@ file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/storage_block.png"
+hash = "a6440fd40816ed2e62b07d256bd86149f1f3608f08f4cf59e7206c4e93fd7f1f"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/alloy_ingot.png"
 hash = "9fd791a74b82f26e913cd8c00407181357b7fecbd46161619a9e42574dac312d"
 
@@ -170,7 +174,7 @@ hash = "e12de160c2c0fae7953413b70da51894f34dc16140acaa394ad5fe987b7569a6"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+hash = "ba66de8678c675932e9ba14b82cee84980972186952020b34755ced5ab0f4ac5"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_builder.js"
@@ -732,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
+metafile = true
+
+[[files]]
+file = "mods/hexerei.pw.toml"
+hash = "0ec6dad41e0e0619a06158ebc08109caa64812673e918ae8999a8946500588c1"
 metafile = true
 
 [[files]]
