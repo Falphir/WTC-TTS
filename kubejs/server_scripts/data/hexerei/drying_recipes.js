@@ -1,4 +1,4 @@
 ServerEvents.recipes(event => {
 
-    HexereiDryingRack(event, "wtc_tweaks:bond_clay", "wtc_tweaks:fireclay", 100)
+    HexereiDryingRack(event, "minecraft:clay", "productivemetalworks:fire_clay", 100)
 })

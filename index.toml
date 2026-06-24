@@ -146,7 +146,7 @@ hash = "346b2758bcd3965d71c302d9b34a4b336addde3c3ef8aa8bcfb83935592931bd"
 
 [[files]]
 file = "kubejs/server_scripts/data/hexerei/drying_recipes.js"
-hash = "3fcb2b1b4356a188ecff3cc0520c1488522a98ce66dcffba46b5fa8b331f570e"
+hash = "acba63e308f10dd74a98bf4bfff3b221dc803d4779989f0cd3199de4c98f825d"
 
 [[files]]
 file = "kubejs/server_scripts/data/hexerei/mixing_recipes.js"
