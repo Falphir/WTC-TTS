@@ -1,6 +1,15 @@
 // priorit: 100
 
+/**
+ * @typedef {[string, number?, number?]} CrushOutput - [itemId, chance?, count?]
+ */
 
+/**
+ * @param {Object} event
+ * @param {string|string[]} input - item id(s) or tag(s) (prefix with "#" for tags)
+ * @param {number} [processingTime=400] - processing time in ticks
+ * @param {CrushOutput[]} outputs - array of [itemId, chance?, count?] tuples
+ */
 function CreateCrushing(event, input, processingTime, outputs) {
 
     const recipe = {
@@ -25,14 +34,14 @@ function CreateCrushing(event, input, processingTime, outputs) {
 
 
 /**
- * @typedef {[string, number?, number?]} CutOutput
+ * @typedef {[string, number?, number?]} CutOutput - [itemId, chance?, count?]
  */
 
 /**
  * @param {Object} event
- * @param {string|string[]} input
- * @param {number} processingTime
- * @param {CutOutput[]} outputs
+ * @param {string|string[]} input - item id(s) or tag(s) (prefix with "#" for tags)
+ * @param {number} [processingTime=200] - processing time in ticks
+ * @param {CutOutput[]} outputs - array of [itemId, chance?, count?] tuples
  */
 function CreateCutting(event, input, processingTime, outputs) {
     console.log(input.map(toIngredient))

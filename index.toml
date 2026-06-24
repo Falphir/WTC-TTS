@@ -134,95 +134,135 @@ hash = "bc1adcd074aa0bc028a09decc148bb8e902a5aade227fcc5d16e43060ca9def3"
 
 [[files]]
 file = "kubejs/server_scripts/data/create/crushing_recipes.js"
-hash = "a235b44b78ca4b58300fd1e8f8da50e25a199ed5b7c780e5f241dc5e45e10b76"
+hash = "6fd3814b4a8ff73e1ec70c0a6d415d05b6e2973962405ebdd29f5e08ce3201d0"
 
 [[files]]
 file = "kubejs/server_scripts/data/create/cutting_recipes.js"
-hash = "346b2758bcd3965d71c302d9b34a4b336addde3c3ef8aa8bcfb83935592931bd"
+hash = "80df5e6dbd3e380540993848b2dc622318f5942ac18bd22513923d043c44a542"
+
+[[files]]
+file = "kubejs/server_scripts/data/exdeorum/barrel_compost_recipes.js"
+hash = "ee0b595649646ef00ad7dfe403dae240a045286e217965caee8453222b655d83"
+
+[[files]]
+file = "kubejs/server_scripts/data/exdeorum/barrel_fluid_mixing_recipes.js"
+hash = "e8e5330b26e5fbe6b322b53da31e99c34cd4acf5d7360e17b0b66460512087da"
+
+[[files]]
+file = "kubejs/server_scripts/data/exdeorum/barrel_fluid_transformation_recipes.js"
+hash = "a164974ea0de031518129e36ddc394d6e98d043a95729d413f351aa72065ea0a"
+
+[[files]]
+file = "kubejs/server_scripts/data/exdeorum/barrel_mixing_recipes.js"
+hash = "2668e08b101cef259538ac6c2460993cef91de89ea55d405ca576a93aa733736"
+
+[[files]]
+file = "kubejs/server_scripts/data/exdeorum/crucible_heat_sources.js"
+hash = "c4b1b770cd7b103b382ac5ce817cacd43f9388f3d9a39a5a7dbda8911ac2db8b"
+
+[[files]]
+file = "kubejs/server_scripts/data/exdeorum/crucible_recipes.js"
+hash = "34fe0de5ca6bb4cf0f0bb7c5a5f8a9928c01d5e6ffd8352b8a8f6936e17b3f10"
+
+[[files]]
+file = "kubejs/server_scripts/data/exdeorum/sieve_recipes.js"
+hash = "a678cca21a3f14fb8bdcc9f10366fae9da70beca2103b39736365d0d7fd83d97"
 
 [[files]]
 file = "kubejs/server_scripts/data/hexerei/drying_recipes.js"
-hash = "acba63e308f10dd74a98bf4bfff3b221dc803d4779989f0cd3199de4c98f825d"
+hash = "6bc81e851a600de8e2b42bc2a7e0e6276809d534d414684a65537d6d3c3b0250"
 
 [[files]]
 file = "kubejs/server_scripts/data/hexerei/mixing_recipes.js"
-hash = "1bf20bc077b1a5207028a874cb63cd72b61bc46c0833a52a5379e8bb5e8f38f1"
+hash = "5711c5af518c47b59d6b83af16942692889c162f631a330ffaa9a545865233ca"
 
 [[files]]
 file = "kubejs/server_scripts/data/hexerei/pestel_recipes.js"
-hash = "91f1bdd811084f3b55f047f717933fc75fdd0bda475b18f8509fbe8a47e4dbd0"
+hash = "f5d40ba459dbeab59827536f230994d533a9f2417116073def015bc678700cfc"
 
 [[files]]
 file = "kubejs/server_scripts/data/immersiveengineering/alloy_recipes.js"
-hash = "c71e9ee5e9deb85beef6daa7e29dcb24a78d683cc851b26229b4fca086397496"
+hash = "ec742f4cfdd8e815b092336f2c025c94624eccd09359657f74ec69fdd1c7c9bd"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "76baa3d2717a253e959bff6e1468592ebd9ec417e44e7f46846e57a4ca636c79"
 
 [[files]]
 file = "kubejs/server_scripts/lib/create.js"
-hash = "7cbb2d90f2a247c733c45cbc9c19f9e1ba92a25d94078fa240b27655e546a951"
+hash = "dc88cb4062f05c24192373f57582b2caf394deeed1b27376e4120648756059d6"
+
+[[files]]
+file = "kubejs/server_scripts/lib/exdeorum.js"
+hash = "dfad870bf9ae3ba5e93b6bab36856115e7c81241153db1b6c7f1e5896e21e21b"
 
 [[files]]
 file = "kubejs/server_scripts/lib/hexerei.js"
-hash = "706055adeb8c86d6d00ce1448b6b0b4583fd41f0555a455fa3e953121aeb15be"
+hash = "9721351fbc4bc1cb74bc6e84abb70c6bc6a360ce0e641fe6442fd6da61e6534c"
 
 [[files]]
 file = "kubejs/server_scripts/lib/immersiveengineering.js"
-hash = "e12de160c2c0fae7953413b70da51894f34dc16140acaa394ad5fe987b7569a6"
+hash = "820287e8a065057b44e218ae79b837d625c3546784b13bc27b81b06ae361f24b"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "ba66de8678c675932e9ba14b82cee84980972186952020b34755ced5ab0f4ac5"
+hash = "b1f8b6b784073823ed27b9f7ad8924e56e99fbae9eabcf65f11a1d42346ef659"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_builder.js"
-hash = "c0313097b3ba1d53f5a38ca0472466aa2af675b342e23abd5a7f88c313f4798a"
+hash = "3c86cb5f08dc3c96383f994fea6a24a24426f9d4695926c458a623d1a9079e67"
 
 [[files]]
 file = "kubejs/startup_scripts/custom_dev.js"
-hash = "bfddac179e6a419d47cfcb611ad9870939dcf786c39493a65cfba749649e7b5b"
+hash = "24b72192a4dcf6e82fdf60ea773a9dc7cd698c4f6d315a44a92f86b8e64ebb12"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "c598d8f9710af7a23f92cdd9061894afa84b2380377a66e15d293e769c998f97"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+hash = "6e9d76a27bf5e161249ae66713cf51a40e344445a87bb8b9911c6a85995c8f89"
 
 [[files]]
 file = "kubejs/startup_scripts/registries/coil.js"
-hash = "60b3a88790f5539bd89950c8b5723397007c293dd54ff8d6633d9e9fa5e720ab"
+hash = "23c69dfe0a51458dd5ac3828fe6e0907ac2057a8460f0fb4cdd05df25aca1451"
 
 [[files]]
 file = "kubejs/startup_scripts/registries/constants.js"
-hash = "5a0cbb01f4adadd4b6817f50d1433d7c689b9bba732feac4f8b85c2263cbdf3f"
+hash = "a7036cc3d746687907531f6f9e9258f0c356f4f7d58ae222219122eb9f1b0b43"
 
 [[files]]
 file = "kubejs/startup_scripts/registries/gears.js"
-hash = "a91b0860f58de5f867d46b74dbdf93e567dc40b9f87eef244091d4f1fdbd678e"
+hash = "29a6e166fc872ce08528f5b8ee8eaff706eb50139357226e3a5f1437ebf63ab8"
 
 [[files]]
 file = "kubejs/startup_scripts/registries/ingots.js"
-hash = "8a678dcbe4ee205a7f6d5c6b0d9b652c3deaae3b65e812b678a18eec11d78dbe"
+hash = "eff9a24fce4a8015386a2ce9f21af67b9ba77054a000094e8862c95e5a4ed109"
 
 [[files]]
 file = "kubejs/startup_scripts/registries/mekParts.js"
-hash = "cf14d899be5bd05b53380dd85f08591c016e7d1df77094cd30b0f1998bf0f191"
+hash = "86f16a344852d599246e1b4043098a0bc3b1b5dd555f99b0aab2382e2493f70e"
 
 [[files]]
 file = "kubejs/startup_scripts/registries/moltenLiquids.js"
-hash = "100b13cb17eeb02809046a10513fd830507040d9ca12435cff564372c0cc9bd9"
+hash = "ddc21b1129de30363694435f8a65c4c32ee31bbd6387662890e23151faf08cb4"
 
 [[files]]
 file = "kubejs/startup_scripts/registries/parts.js"
-hash = "7c24c9b65db6fb27b95d451df9dd85af49d2b9100f990f1558a1b3d1b3d1e2bc"
+hash = "6e3fa4c6b62dc49b1ccc03fba09959bc0e4d0c96ee3d97ef01d33f7082e320c4"
 
 [[files]]
 file = "kubejs/startup_scripts/registries/raw_ore.js"
-hash = "c53dc484ffecbb3f1ce391b54d7bce1a2076e3f378bf97867fdc9078cf324c24"
+hash = "56aee0bc55c0fa6fab234d923f2162b44cfca0d13e5c5e3c38cc899c3f2fc4b9"
 
 [[files]]
 file = "kubejs/startup_scripts/registries/storage_blocks.js"
-hash = "dd0d4dfd42f10467fc630ca65f21bc33b4658c83b43f8b5e5bcaabee35303af1"
+hash = "54c68f657b1cc2fa83567f7213c9d745beb6dad1a5a2472aa8d2f7208927c664"
 
 [[files]]
 file = "kubejs/startup_scripts/registries/wires.js"
-hash = "af755df2c5e2f2e1248f4355ca3afbddbaa56f744368bf4a60ac7c1b7e639546"
+hash = "d0389610e9072c55a0946b5d4f6d297e31b44aa7c4a4412dc89256c2e6251ead"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
