@@ -5,6 +5,226 @@ file = "README.md"
 hash = "fc907c0f9c3ba98aabb8fc7f54a5d8ffe1399ace7edaaad7fe87cfa57f4625de"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
+
+[[files]]
+file = "config/almostunified/placeholders.json"
+hash = "56e5b892de09c92883d8b3e35add7b2ad11c352369b4c88ae611418fa60ab481"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "37f013c49586db025c17f9fa6657c6f239e0169ebc97ef682ff114a2ede43c5e"
+
+[[files]]
+file = "config/almostunified/tags.json"
+hash = "3f0d92c8abaf95a68ff79bb2ef9169fd598500070de7e5a616b755f9c5123e6f"
+
+[[files]]
+file = "config/almostunified/unification/materials.json"
+hash = "48c8820906039650630a90667f1bae66d68569123c8422fad8dc90a0ee309dae"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/alloy_ingot.png"
+hash = "9fd791a74b82f26e913cd8c00407181357b7fecbd46161619a9e42574dac312d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/base_ingot.png"
+hash = "9e0e42d3a0ae1d2c4eef118d4b733e4a3398fc9a6d05240882cf4e0090015317"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/nugget.png"
+hash = "4ad364941d7fd76967f394b672eb10c62060e1c493a1e2e60ecf26fbdc92cfa2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/part_coil.png"
+hash = "8b0dfad0b929f4bfb51d96cabb13b36d766b05dc32ef7edc17cf2a908c49c7f9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/part_coil_overlay.png"
+hash = "2955fa2c9f932b8cd7c4bb94d5a6976d651f1c4b09ebb87ca5dcd29d339b04b2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/parts/part_coil.png"
+hash = "8b0dfad0b929f4bfb51d96cabb13b36d766b05dc32ef7edc17cf2a908c49c7f9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/parts/part_coil_overlay.png"
+hash = "2955fa2c9f932b8cd7c4bb94d5a6976d651f1c4b09ebb87ca5dcd29d339b04b2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/parts/part_dust.png"
+hash = "5fab8c2eaa525e4aaa788ca7295379e0b1d8d65d0d910ff910342e6dc41e3f80"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/parts/part_gear.png"
+hash = "e0d80ede84f44805175debcbffbe292263d6fe4b49ff5ab45d59bb4d8db8480c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/parts/part_plate.png"
+hash = "82c269ec3f0a9ea49e054b589784321b20a1b0a7d4c160779f3d064e53c07004"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/parts/part_plate_thick.png"
+hash = "abfc15ac597629a064e52ac6708d1d9101cb6da87600a56d558e9b09173b1d5d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/parts/part_rod.png"
+hash = "fcfee210bf9a3fef2b33dba0b21e0c68521bb393907a063cf305eda8cf2fc6eb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/parts/part_sheet.png"
+hash = "fa8634d2c1ceb6728bdbb2b8bb4c63578f7d50b8b0390e2bf5c4e3a2f82ea938"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/parts/part_small_dust.png"
+hash = "fed2d5b094d959de41e538ad6d957a16137b95287eb31102a8548034544799b0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/parts/part_wire.png"
+hash = "c59b57e946ea0348b35aff8096addbed23fd713b8577594ece6bb382f86ecbc3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/raw_ore.png"
+hash = "87bfd37bdec482ae8857e868505d8fc057a95e332bdcf93c363604dd5785375f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/recipe_builder_shaped.png"
+hash = "c77935fb37a09830f2d5db43e251073549c6da77330b10f847229f42e405d9b9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/recipe_builder_shapeless.png"
+hash = "5330897ef11c41db3b8756df3f464bed191c1e98903787a7fc12b53b1dd795b4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/superalloy_ingot.png"
+hash = "7e32694c26933746a8fe93d362d067accb32bde3398921b4d1c2a8511ed91630"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "bc1adcd074aa0bc028a09decc148bb8e902a5aade227fcc5d16e43060ca9def3"
+
+[[files]]
+file = "kubejs/server_scripts/data/create/crushing_recipes.js"
+hash = "6fd3814b4a8ff73e1ec70c0a6d415d05b6e2973962405ebdd29f5e08ce3201d0"
+
+[[files]]
+file = "kubejs/server_scripts/data/create/cutting_recipes.js"
+hash = "80df5e6dbd3e380540993848b2dc622318f5942ac18bd22513923d043c44a542"
+
+[[files]]
+file = "kubejs/server_scripts/data/hexerei/drying_recipes.js"
+hash = "a3ba725b101cf36ef264ae04ca64ba11410e08e92855496c9b6026f3214328fa"
+
+[[files]]
+file = "kubejs/server_scripts/data/hexerei/mixing_recipes.js"
+hash = "84ac595607db0954e69202e5f8684a297b2f7da64c16c62d689d328fcbc9a349"
+
+[[files]]
+file = "kubejs/server_scripts/data/hexerei/pestel_recipes.js"
+hash = "9adec636ae7d8026dfa90b87dd606fe2058817ab35de66f528d24a92d78d323a"
+
+[[files]]
+file = "kubejs/server_scripts/data/immersiveengineering/alloy_recipes.js"
+hash = "ec742f4cfdd8e815b092336f2c025c94624eccd09359657f74ec69fdd1c7c9bd"
+
+[[files]]
+file = "kubejs/server_scripts/lib/create.js"
+hash = "66d2642a22d419b73152bc1cca06827708e7ed64cac3859448f02c02f1467d27"
+
+[[files]]
+file = "kubejs/server_scripts/lib/hexerei.js"
+hash = "c6644a1313c5a0702c5df6b4fc5c552d7d0e037964618a10d7c8c99062fdf96d"
+
+[[files]]
+file = "kubejs/server_scripts/lib/immersiveengineering.js"
+hash = "f19243716e2dd33c31eb9d009e7739375359d31adda383f276570748e8d9e76a"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_builder.js"
+hash = "3c86cb5f08dc3c96383f994fea6a24a24426f9d4695926c458a623d1a9079e67"
+
+[[files]]
+file = "kubejs/startup_scripts/custom_dev.js"
+hash = "8ed13d451f674639acf27f8574a700167524ae0fee166f6a7b3c717dda7a4418"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
+file = "kubejs/startup_scripts/registries/coil.js"
+hash = "23c69dfe0a51458dd5ac3828fe6e0907ac2057a8460f0fb4cdd05df25aca1451"
+
+[[files]]
+file = "kubejs/startup_scripts/registries/constants.js"
+hash = "a7036cc3d746687907531f6f9e9258f0c356f4f7d58ae222219122eb9f1b0b43"
+
+[[files]]
+file = "kubejs/startup_scripts/registries/gears.js"
+hash = "29a6e166fc872ce08528f5b8ee8eaff706eb50139357226e3a5f1437ebf63ab8"
+
+[[files]]
+file = "kubejs/startup_scripts/registries/ingots.js"
+hash = "eff9a24fce4a8015386a2ce9f21af67b9ba77054a000094e8862c95e5a4ed109"
+
+[[files]]
+file = "kubejs/startup_scripts/registries/mekParts.js"
+hash = "86f16a344852d599246e1b4043098a0bc3b1b5dd555f99b0aab2382e2493f70e"
+
+[[files]]
+file = "kubejs/startup_scripts/registries/moltenLiquids.js"
+hash = "ddc21b1129de30363694435f8a65c4c32ee31bbd6387662890e23151faf08cb4"
+
+[[files]]
+file = "kubejs/startup_scripts/registries/parts.js"
+hash = "6e3fa4c6b62dc49b1ccc03fba09959bc0e4d0c96ee3d97ef01d33f7082e320c4"
+
+[[files]]
+file = "kubejs/startup_scripts/registries/raw_ore.js"
+hash = "56aee0bc55c0fa6fab234d923f2162b44cfca0d13e5c5e3c38cc899c3f2fc4b9"
+
+[[files]]
+file = "kubejs/startup_scripts/registries/storage_blocks.js"
+hash = "54c68f657b1cc2fa83567f7213c9d745beb6dad1a5a2472aa8d2f7208927c664"
+
+[[files]]
+file = "kubejs/startup_scripts/registries/wires.js"
+hash = "d0389610e9072c55a0946b5d4f6d297e31b44aa7c4a4412dc89256c2e6251ead"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
