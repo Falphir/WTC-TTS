@@ -150,11 +150,11 @@ hash = "3fcb2b1b4356a188ecff3cc0520c1488522a98ce66dcffba46b5fa8b331f570e"
 
 [[files]]
 file = "kubejs/server_scripts/data/hexerei/mixing_recipes.js"
-hash = "a4cd54608dd7d7d600d3c54d2d9128347a062b8bb19a48b03b919629e1e876d4"
+hash = "1bf20bc077b1a5207028a874cb63cd72b61bc46c0833a52a5379e8bb5e8f38f1"
 
 [[files]]
 file = "kubejs/server_scripts/data/hexerei/pestel_recipes.js"
-hash = "3188df52953ac639248068cdd1411ffb8bbc6eac00daa1fc3c597d383523e60f"
+hash = "91f1bdd811084f3b55f047f717933fc75fdd0bda475b18f8509fbe8a47e4dbd0"
 
 [[files]]
 file = "kubejs/server_scripts/data/immersiveengineering/alloy_recipes.js"

@@ -5,6 +5,6 @@ ServerEvents.recipes(event => {
         "immersiveengineering:treated_wood_horizontal", 4, null, null)
 
     HexereiCauldronItemMixing(event, "minecraft:lava", 100,
-        ["minecraft:andesite","wtc_tweaks:cast_iron_dust","minecraft:andesite","wtc_tweaks:cast_iron_dust","minecraft:andesite","wtc_tweaks:cast_iron_dust","minecraft:andesite","wtc_tweaks:cast_iron_dust"],
+        ["minecraft:andesite","kubejs:iron_dust","minecraft:andesite","kubejs:iron_dust","minecraft:andesite","kubejs:iron_dust","minecraft:andesite","kubejs:iron_dust"],
         "create:andesite_alloy", 4, "heated", null)
 })

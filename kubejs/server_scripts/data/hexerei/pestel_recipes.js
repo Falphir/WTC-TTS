@@ -12,10 +12,10 @@ ServerEvents.recipes(event => {
         "minecraft:blaze_powder"
         ], "minecraft:bone_meal", 1, 200)
 
-    HexereiPestle(event, ["wtc_tweaks:cast_iron_ingot"], "wtc_tweaks:cast_iron_dust",1, 100)
-    HexereiPestle(event, ["wtc_tweaks:cast_iron_ingot","wtc_tweaks:cast_iron_ingot"], "wtc_tweaks:cast_iron_dust", 2, 100)
-    HexereiPestle(event, ["wtc_tweaks:cast_iron_ingot","wtc_tweaks:cast_iron_ingot","wtc_tweaks:cast_iron_ingot",], "wtc_tweaks:cast_iron_dust", 3, 100)
-    HexereiPestle(event, ["wtc_tweaks:cast_iron_ingot","wtc_tweaks:cast_iron_ingot","wtc_tweaks:cast_iron_ingot","wtc_tweaks:cast_iron_ingot"], "wtc_tweaks:cast_iron_dust", 4, 100)
-    HexereiPestle(event, ["wtc_tweaks:cast_iron_ingot","wtc_tweaks:cast_iron_ingot","wtc_tweaks:cast_iron_ingot","wtc_tweaks:cast_iron_ingot","wtc_tweaks:cast_iron_ingot"], "wtc_tweaks:cast_iron_dust", 5, 100)
+    HexereiPestle(event, ["minecraft:iron_ingot"], "kubejs:iron_dust", 1, 100)
+    HexereiPestle(event, ["minecraft:iron_ingot","minecraft:iron_ingot"], "kubejs:iron_dust", 2, 100)
+    HexereiPestle(event, ["minecraft:iron_ingot","minecraft:iron_ingot","minecraft:iron_ingot"], "kubejs:iron_dust", 3, 100)
+    HexereiPestle(event, ["minecraft:iron_ingot","minecraft:iron_ingot","minecraft:iron_ingot","minecraft:iron_ingot"], "kubejs:iron_dust", 4, 100)
+    HexereiPestle(event, ["minecraft:iron_ingot","minecraft:iron_ingot","minecraft:iron_ingot","minecraft:iron_ingot","minecraft:iron_ingot"], "kubejs:iron_dust", 5, 100)
 
 })
