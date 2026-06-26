@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
+
+[[files]]
 file = "config/almostunified/duplicates.json"
 hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
 
@@ -431,6 +435,11 @@ hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
 
 [[files]]
+file = "mods/classic-pipes.pw.toml"
+hash = "ffbfda087517355e99792443d18ecebafc3850dc8569ac9d68fd6a9306020980"
+metafile = true
+
+[[files]]
 file = "mods/clean-swing-through-grass.pw.toml"
 hash = "69968d3337983555531273604549745ad124bc95e19363f69cb4d1e41f47a980"
 metafile = true
@@ -571,6 +580,11 @@ hash = "bc1d52bd43eace5fe032e8815df90323adcc82ab765d382d5d4a536eee3a0f06"
 metafile = true
 
 [[files]]
+file = "mods/dyson-cube-project.pw.toml"
+hash = "1c8bced0d438028749bdae28d96647825ff469ec9780fb269e0ee421012aec64"
+metafile = true
+
+[[files]]
 file = "mods/emi-ores.pw.toml"
 hash = "e2839cee5bdbe2415532858b6b39b13c23dfea06c0a35a790e4e665eb3d72573"
 metafile = true
@@ -596,6 +610,11 @@ hash = "39cbab92fb61fa1809540a828858e16c2386ff6fbd5bc01140d180c74ad94002"
 metafile = true
 
 [[files]]
+file = "mods/ex-compressum.pw.toml"
+hash = "d2d68f6b910767c9b896a2237b7d65e7fbcf8bc0fd19a13654a8a3755c7189bc"
+metafile = true
+
+[[files]]
 file = "mods/ex-deorum.pw.toml"
 hash = "2077b38f089ba2cc007a29c98ef21a9e5b54186f7408ee53f25afffa41856fe6"
 metafile = true
@@ -618,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "e206e53e79c196615bebfc9f5dfa943c11c1361e1c7dc4f8f952c86b95e0f0ca"
+metafile = true
+
+[[files]]
+file = "mods/extended-crafting.pw.toml"
+hash = "0cb911a359516606a53d315b06e8d0b5377821d4f8e12ac03e09ce3ca6c41ec3"
 metafile = true
 
 [[files]]
@@ -746,6 +770,11 @@ hash = "5959363e04f33dd25c7cbf8488012a3e019a865f9f8ec5faadbf036bc2a2fca5"
 metafile = true
 
 [[files]]
+file = "mods/gaze-a-malum-addon.pw.toml"
+hash = "be7b66f656d62935f1cf55f121214a465dc7c07860257b414696233e9aef9aa2"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "54634cdd10c4c9db965a9d5f5d550fea63f0d4e9e6ff2b112306b5bd0ca84793"
 metafile = true
@@ -793,6 +822,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "6ca237a57318443938c398727691cdd14d0c369667401f11dcf12ca699595d20"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "a5aaea87e0b2dd9005e1ba2a16730ac416d9c9fad5d178da57ce0e649e4f57ce"
 metafile = true
 
 [[files]]
@@ -911,8 +945,23 @@ hash = "1b78273918bdbfe66d38f35b6ec2fbaa7e862fb9dca67cc99a725df768365e96"
 metafile = true
 
 [[files]]
+file = "mods/lodestone.pw.toml"
+hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
+metafile = true
+
+[[files]]
+file = "mods/logistics-network.pw.toml"
+hash = "45a3b542de97004c9cbbb0c9fd6253a68250a373e062e20eee9b044f8a08594f"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "d7ed4aa2c8e01de8d38b08f96b7f10dac30b96df1c1e7f4b924588a36f5bdca3"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+hash = "ce71c31bae3eabed36e3fcec1c7db6b7cb9b3882cdd05ac5b2b518b32109092d"
 metafile = true
 
 [[files]]
@@ -1033,6 +1082,21 @@ metafile = true
 [[files]]
 file = "mods/oritech.pw.toml"
 hash = "d330d1a88de8a33a9f0f731598b852815dd501d5b713584dcbdd26de16e510e1"
+metafile = true
+
+[[files]]
+file = "mods/packagedauto.pw.toml"
+hash = "b6aec8595392568a83ee3310b2eb1a38fe885e98420f51ebb6e1106c1376ff25"
+metafile = true
+
+[[files]]
+file = "mods/packageddraconic.pw.toml"
+hash = "4b905d77b320a30a0ec8755b2752f9d4214757aa95fb922a66dbbd05ab01a37b"
+metafile = true
+
+[[files]]
+file = "mods/packagedexcrafting.pw.toml"
+hash = "4988c458848bb079c4bbb06f06321b86c677751547eb50344ab0c3099bbc6467"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Ex Compressum"
+filename = "excompressum-neoforge-1.21.1-21.1.13.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "504740d4784729c45c4d9c0c3595a6fb7c1fedae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8025691
+project-id = 241967

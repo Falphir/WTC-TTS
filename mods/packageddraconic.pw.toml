@@ -1,0 +1,13 @@
+name = "PackagedDraconic"
+filename = "PackagedDraconic-1.21.1-4.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd7caf5e6795b0166a83d283495baccde7de7975"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7155031
+project-id = 833931
