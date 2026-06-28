@@ -74,10 +74,18 @@ hash = "5fab8c2eaa525e4aaa788ca7295379e0b1d8d65d0d910ff910342e6dc41e3f80"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/parts/part_gear.png"
+hash = "b21ad1c09f84aff5dd3ef690f1ff2857e6b684b66356731f134c29283e780f1c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/parts/part_gear_old.png"
 hash = "e0d80ede84f44805175debcbffbe292263d6fe4b49ff5ab45d59bb4d8db8480c"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/parts/part_plate.png"
+hash = "334b3d9948ef6ca7a3b54773e69e2f1914f3a0d94faa6c480e8dfcfaec7461d9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/parts/part_plate_old.png"
 hash = "82c269ec3f0a9ea49e054b589784321b20a1b0a7d4c160779f3d064e53c07004"
 
 [[files]]
@@ -90,6 +98,10 @@ hash = "fcfee210bf9a3fef2b33dba0b21e0c68521bb393907a063cf305eda8cf2fc6eb"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/parts/part_sheet.png"
+hash = "1d8bc9912a69bef56793949caa3f316f9da8ba4cc5fe52fc5406dd04faf5f48b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/parts/part_sheet_old.png"
 hash = "fa8634d2c1ceb6728bdbb2b8bb4c63578f7d50b8b0390e2bf5c4e3a2f82ea938"
 
 [[files]]
@@ -230,7 +242,7 @@ hash = "60b3a88790f5539bd89950c8b5723397007c293dd54ff8d6633d9e9fa5e720ab"
 
 [[files]]
 file = "kubejs/startup_scripts/registries/constants.js"
-hash = "5a0cbb01f4adadd4b6817f50d1433d7c689b9bba732feac4f8b85c2263cbdf3f"
+hash = "fc98f0299071f1ee914609f1b87f782ad0bc1d0cde1f0fb6e557198f232dd572"
 
 [[files]]
 file = "kubejs/startup_scripts/registries/gears.js"
