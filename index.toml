@@ -968,7 +968,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "0b0b8ec73c689824125ed9c568deff51b0adca52aee27e49a114b04ff3f73abe"
+hash = "44da4d88d0d7b995285250c043892512b8833dbf758fa2340bd1640cbfaee720"
 metafile = true
 
 [[files]]
