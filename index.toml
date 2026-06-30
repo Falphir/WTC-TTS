@@ -547,6 +547,11 @@ hash = "6457e8702c7c3d603e1e35252bf2388db4ec44c875209af3c4364a79f4c1709c"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "121fdf97f418c2c32f3f4c381c279e0cc12a07c976ddcb9de2517bc434a87bda"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
@@ -727,11 +732,6 @@ hash = "ca3a278d045987c9e013604465ebfca96c17ebb128b9a8cb4954204943d72309"
 metafile = true
 
 [[files]]
-file = "mods/ftb-essentials.pw.toml"
-hash = "aaa5d15a2ebf6ae368561fc49d7994ffa5084138942095cb4ded4c8921189437"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "5fb287ddb204cc2460dc51984099b0010462f781d00b2d6ed2a37046accf2560"
 metafile = true
@@ -739,11 +739,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
 hash = "d1cd2e49985872d923864aa44e4ff8b4d97e3ab9e78bf2c5fd57d2275a62901b"
-metafile = true
-
-[[files]]
-file = "mods/ftb-ranks-forge.pw.toml"
-hash = "810e1fce6db6ac0a6bfce460c0908ed8e9b33648fddbb65db849aba368e8d7bc"
 metafile = true
 
 [[files]]
@@ -972,6 +967,11 @@ hash = "d7ed4aa2c8e01de8d38b08f96b7f10dac30b96df1c1e7f4b924588a36f5bdca3"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0b0b8ec73c689824125ed9c568deff51b0adca52aee27e49a114b04ff3f73abe"
+metafile = true
+
+[[files]]
 file = "mods/malum.pw.toml"
 hash = "ce71c31bae3eabed36e3fcec1c7db6b7cb9b3882cdd05ac5b2b518b32109092d"
 metafile = true
@@ -1064,6 +1064,11 @@ metafile = true
 [[files]]
 file = "mods/natures-aura.pw.toml"
 hash = "ca3426e0a67ef9a2d8622761994fe4058e83635c915de5015f0c114a3a7fcd7d"
+metafile = true
+
+[[files]]
+file = "mods/neoessentials.pw.toml"
+hash = "bd22a9802b2150333a5b3b471199f0e55f6906a402fb7b642f606c89cbb48ae3"
 metafile = true
 
 [[files]]
@@ -1219,6 +1224,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "15fad66b297e3901d626bc8a164d39af95fe3d4b45c3543c41392a6579cfbbef"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
+hash = "753d28118c2969b54a767b6a8ea18180da5d440620b23bf02c48a32e71120061"
 metafile = true
 
 [[files]]
