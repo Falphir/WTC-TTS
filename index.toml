@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/almostunified/debug.json"
-hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
-
-[[files]]
 file = "config/almostunified/duplicates.json"
 hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
 
@@ -747,6 +743,11 @@ hash = "810e1fce6db6ac0a6bfce460c0908ed8e9b33648fddbb65db849aba368e8d7bc"
 metafile = true
 
 [[files]]
+file = "mods/ftb-team-bases.pw.toml"
+hash = "13a8f2ebbef774295d4038b60b493a1b01739ed96303f798da80daece965d8cf"
+metafile = true
+
+[[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
 metafile = true
@@ -947,11 +948,6 @@ hash = "11fc7b3670c6e58c67d0ba2d5216233fbead5ff96982a0fb19f4ccfeea1f3398"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
-metafile = true
-
-[[files]]
 file = "mods/lmft.pw.toml"
 hash = "1b78273918bdbfe66d38f35b6ec2fbaa7e862fb9dca67cc99a725df768365e96"
 metafile = true
@@ -1147,6 +1143,11 @@ hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
 metafile = true
 
 [[files]]
+file = "mods/potentials.pw.toml"
+hash = "b484f15d3353a7d4b3baf14b9da340c922299aead74f7f052dd886f49489d7fd"
+metafile = true
+
+[[files]]
 file = "mods/powah-rearchitected.pw.toml"
 hash = "a6f8726db6be3d6efc3a3561166db9d30d48dc2feef5e5d7e0ecbff86b3a2f82"
 metafile = true
@@ -1227,16 +1228,6 @@ hash = "04bd0d7668e9a435a0ca553ad247636d74f3641a7542a170de6111cea852dea6"
 metafile = true
 
 [[files]]
-file = "mods/sky-guis.pw.toml"
-hash = "51485dad52907c184bc3a69fe19586d1df1f0f048c4aa7dc2ad694cd40483766"
-metafile = true
-
-[[files]]
-file = "mods/skyblock-builder.pw.toml"
-hash = "dda22bed8fab9764ab6d7db702c34a2ef3c574c47f329bbe95f6b02faa0b8c0c"
-metafile = true
-
-[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "1a610a4a75169fbebeece88a8e611fa0ad432b8661754a519166b23a6d643e36"
 metafile = true
@@ -1279,6 +1270,21 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
+metafile = true
+
+[[files]]
+file = "mods/stellar-view-mixin-renderer.pw.toml"
+hash = "b37a539f5803756abbecc75c17ef6f502134c0834646ffa70d1db8741130cab1"
+metafile = true
+
+[[files]]
+file = "mods/stellaris.pw.toml"
+hash = "6b286b07a04766183fa2329553e8cc3a2d81049104dbb14d4d8ccf8f3f6af266"
+metafile = true
+
+[[files]]
+file = "mods/stellarview.pw.toml"
+hash = "e583f8cd89217955925b1eb1ee9fa75e59cceeca958a233bb8f090226e13c96c"
 metafile = true
 
 [[files]]
@@ -1384,4 +1390,9 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stellaris-stellarview-compatibility-resourcepack.pw.toml"
+hash = "15ac9a291fa040c90b3dc72e6c4c7d447d8e356084dc9da51a575560c06650a6"
 metafile = true

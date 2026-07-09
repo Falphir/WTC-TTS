@@ -1,0 +1,13 @@
+name = "Stellar View Mixin Renderer"
+filename = "stellarview_mixin_renderer-1.21.1-neoforge-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de4cb6a0137068b1385ade58aa3a4ca77301f363"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8364295
+project-id = 1474053
