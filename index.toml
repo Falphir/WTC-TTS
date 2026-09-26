@@ -283,6 +283,11 @@ hash = "7cd6286ad0975cce954e15e6611f4d592672db45fa52603161e8c3a9e338a4d8"
 metafile = true
 
 [[files]]
+file = "mods/advanced-core-info.pw.toml"
+hash = "c8d19e2c305ff8e9c978992c132798be135601f4ea245b0114bfeef60b80b484"
+metafile = true
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "c78f0837d82e9ae47af79be51a3226152ff93394edc254b930d394a87fcbcb47"
 metafile = true
@@ -430,11 +435,6 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
-metafile = true
-
-[[files]]
-file = "mods/cataclysm-dimensions.pw.toml"
-hash = "0ef62cfe22c85d771c2d5a6e4b8778b9565eb74ce5289206cf8b6d0c77193506"
 metafile = true
 
 [[files]]
