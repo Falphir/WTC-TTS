@@ -1,13 +1,13 @@
 name = "Cataclysm Dimensions"
-filename = "cataclysm_dimension-neoforge1.21.1-1.6.2.jar"
+filename = "cataclysm_dimension-neoforge1.21.1-1.7.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e4b2dc9f031987d6db7893936e8ea3160d025f71"
+hash = "ac2a19580991e76d54e15e30f5c93370cdb799b2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7752117
+file-id = 8431140
 project-id = 1303494
