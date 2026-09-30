@@ -388,6 +388,11 @@ hash = "bbbde993c3a6d5d56f4a72e27574f5d7401867d4f1bc817fbf1104b5236ad047"
 metafile = true
 
 [[files]]
+file = "mods/astral-sorcery.pw.toml"
+hash = "c7a0dad47dcc9cdc0238647878725c68e0666060c22471bf7eb915d4643a9663"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "38bddea8d550568799dd7f208c0bbe10280de3e456016a0d59aa20de112a2345"
 metafile = true
@@ -858,6 +863,21 @@ hash = "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b"
 metafile = true
 
 [[files]]
+file = "mods/jei-plus-plus.pw.toml"
+hash = "131888c39b939cdbc4f766f837d9f9a4941d5414e0c74fad4132be3915cf0d83"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "dff78a2bb35aed61cf73edaf1913c1fafec2a3a50551e022648c658cc21e32f9"
+metafile = true
+
+[[files]]
+file = "mods/jeioptimizer.pw.toml"
+hash = "26b47af2969815e3e15d9f6585c3fae23176e4c8b7d0bf5afbeddd111bfb886b"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "ae8c2feb4f1731d7ddfcd0be96b5d6483a6cdc6f8afac9a810494fe167f884af"
 metafile = true
@@ -958,6 +978,11 @@ hash = "e0d9755760c180395cbddb1cf18278e9d2b736b692390ab44dc05d56509a15ee"
 metafile = true
 
 [[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "e9f9d37f2fe36a749d97a79b32dca6a1b9294fb39f609dae8487a55ef634b1f2"
+metafile = true
+
+[[files]]
 file = "mods/mifa.pw.toml"
 hash = "c55f5ed9eab9e033c80f91bc1cbe14e34e4c3ef28160f1022cbdeff79fb55db1"
 metafile = true
@@ -1008,6 +1033,11 @@ hash = "1dc724ce92c5aedf83616bcc239a21ac90d84ff91ada62b2cd297f8533b62757"
 metafile = true
 
 [[files]]
+file = "mods/neovitae.pw.toml"
+hash = "ad530c8916f879d77388af1d491f902dce82c54b4d00af39fb6bf9fa89c6c307"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
@@ -1015,6 +1045,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "00fb150ec4389dbe540bcede8ac3b6e34677f5bf3e3454732d311b7e44569d63"
+metafile = true
+
+[[files]]
+file = "mods/observerlib.pw.toml"
+hash = "ff407a1e06ce5a70fd10e60a9c822a69d2722d8d1b5751918ff65145a976036e"
 metafile = true
 
 [[files]]
